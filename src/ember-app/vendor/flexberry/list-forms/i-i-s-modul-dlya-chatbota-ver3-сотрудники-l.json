@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-modul-dlya-chatbota-ver3-сотрудники-e",
+  "editForm": "i-i-s-modul-dlya-chatbota-ver3-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISModul_dlya_chatbota_ver3СотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-modul-dlya-chatbota-ver3-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}

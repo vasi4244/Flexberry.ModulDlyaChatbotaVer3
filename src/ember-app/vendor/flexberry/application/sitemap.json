@@ -1,0 +1,65 @@
+﻿{
+  "applicationCaption": "Modul_dlya_chatbota_ver3",
+  "applicationTitle": "Modul_dlya_chatbota_ver3",
+  "items": [
+    {
+      "link": null,
+      "menuName": "кадры",
+      "caption": "Кадры",
+      "title": "Кадры",
+      "children": [
+        {
+          "link": "i-i-s-modul-dlya-chatbota-ver3-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-modul-dlya-chatbota-ver3-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-modul-dlya-chatbota-ver3-отделы-l",
+          "menuName": null,
+          "caption": "Отделы",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "работа-с-чат-ботом",
+      "caption": "Работа с чат-ботом",
+      "title": "Работа с чат-ботом",
+      "children": [
+        {
+          "link": "i-i-s-modul-dlya-chatbota-ver3-опрос-l",
+          "menuName": null,
+          "caption": "Опрос",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-modul-dlya-chatbota-ver3-настройки-опр-l",
+          "menuName": null,
+          "caption": "Настройки опр",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-modul-dlya-chatbota-ver3-анкетирование-l",
+          "menuName": null,
+          "caption": "Анкетирование",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul_dlya_chatbota_ver3.Objects", "Objects/Modul_dlya_chatbota_ver3.Objects.csproj", "2820798d-1b4b-4f94-acbf-cb089994cac3"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul_dlya_chatbota_ver3.Tests", "Tests/Modul_dlya_chatbota_ver3.Tests.csproj", "c8c9a838-507e-40f0-9c63-62a9f8d49551"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul_dlya_chatbota_ver3.ODataBackend", "ODataBackend/Modul_dlya_chatbota_ver3.ODataBackend.csproj", "6e577871-9f9b-47fe-9e3a-899e9419ee58"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul_dlya_chatbota_ver3.IntegrationTests", "IntegrationTests/Modul_dlya_chatbota_ver3.IntegrationTests.csproj", "f06dbbdb-7ab4-419b-b2a8-8b43ea3b9963"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		2820798d-1b4b-4f94-acbf-cb089994cac3.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		2820798d-1b4b-4f94-acbf-cb089994cac3.Debug|Any CPU.Build.0 = Debug|Any CPU
+		2820798d-1b4b-4f94-acbf-cb089994cac3.Release|Any CPU.ActiveCfg = Release|Any CPU
+		2820798d-1b4b-4f94-acbf-cb089994cac3.Release|Any CPU.Build.0 = Release|Any CPU
+		c8c9a838-507e-40f0-9c63-62a9f8d49551.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		c8c9a838-507e-40f0-9c63-62a9f8d49551.Debug|Any CPU.Build.0 = Debug|Any CPU
+		c8c9a838-507e-40f0-9c63-62a9f8d49551.Release|Any CPU.ActiveCfg = Release|Any CPU
+		c8c9a838-507e-40f0-9c63-62a9f8d49551.Release|Any CPU.Build.0 = Release|Any CPU
+		6e577871-9f9b-47fe-9e3a-899e9419ee58.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		6e577871-9f9b-47fe-9e3a-899e9419ee58.Debug|Any CPU.Build.0 = Debug|Any CPU
+		6e577871-9f9b-47fe-9e3a-899e9419ee58.Release|Any CPU.ActiveCfg = Release|Any CPU
+		6e577871-9f9b-47fe-9e3a-899e9419ee58.Release|Any CPU.Build.0 = Release|Any CPU
+		f06dbbdb-7ab4-419b-b2a8-8b43ea3b9963.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		f06dbbdb-7ab4-419b-b2a8-8b43ea3b9963.Debug|Any CPU.Build.0 = Debug|Any CPU
+		f06dbbdb-7ab4-419b-b2a8-8b43ea3b9963.Release|Any CPU.ActiveCfg = Release|Any CPU
+		f06dbbdb-7ab4-419b-b2a8-8b43ea3b9963.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Опрос",
+      "projection": "ОпросL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Настройки опр",
+  "name": "IISModul_dlya_chatbota_ver3НастройкиОпрE",
+  "className": "НастройкиОпрE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-modul-dlya-chatbota-ver3-настройки-опр",
+      "modelProjection": "НастройкиОпрE"
+    }
+  ]
+}

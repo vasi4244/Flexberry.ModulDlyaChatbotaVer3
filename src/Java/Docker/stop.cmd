@@ -1,0 +1,1 @@
+docker-compose -p modul_dlya_chatbota_ver3-java down

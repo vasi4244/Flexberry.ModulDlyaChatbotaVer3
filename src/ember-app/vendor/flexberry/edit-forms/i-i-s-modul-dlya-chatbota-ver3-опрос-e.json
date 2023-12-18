@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Опрос",
+  "name": "IISModul_dlya_chatbota_ver3ОпросE",
+  "className": "ОпросE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-modul-dlya-chatbota-ver3-опрос",
+      "modelProjection": "ОпросE"
+    }
+  ]
+}
